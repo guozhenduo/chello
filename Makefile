@@ -1,2 +1,3 @@
 a.out: hello.c
-	clang hello.c # gcc is OK too
+	clang hello.c 
+	# gcc is OK too
