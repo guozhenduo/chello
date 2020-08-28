@@ -2,13 +2,14 @@
 What do you need to do for Hello World?
 
 # step1
-Write code in xxx.c.
+Write code.
+[code reference](https://github.com/guozhenduo/ctime/blob/master/hello.c)
 
 # step2
-Write a Makefile
-[Makefile Reference]
+Write Makefile.
+[Makefile Reference](https://github.com/guozhenduo/ctime/blob/master/Makefile)
 
 # run
-make,run `./a.out`.
+make,and run `./a.out`.
 And then...
-Hello World!!!
+Hello World!!
